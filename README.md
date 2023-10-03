@@ -8,3 +8,6 @@ Commit this line
 
 Add line without IDE
 Commit without IDE
+
+
+Add new line for test
