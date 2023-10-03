@@ -11,3 +11,5 @@ Commit without IDE
 
 
 Add new line for test
+
+Resolve conflict
