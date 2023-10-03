@@ -5,3 +5,6 @@ Add new line one
 
 Add new line two
 Commit this line
+
+Add line without IDE
+Commit without IDE
